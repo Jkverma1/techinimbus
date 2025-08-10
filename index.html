@@ -378,44 +378,68 @@
         </div>
         <div class="form-block sidebarform">
           <h4>Request A Quote</h4>
-		  <form name="contactForm" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="contactForm">
-			<input type="hidden" name="form-name" value="contactForm" />
-			<p hidden>
-			  <label>Don’t fill this out: <input name="bot-field" /></label>
-			</p>
-		  
-			<div class="row">
-			  <div class="form-group col-sm-12">
-				<input type="text" name="name" placeholder="Enter name" required />
-			  </div>
-			  <div class="form-group col-sm-12">
-				<input type="email" name="email" placeholder="Enter email" required />
-			  </div>
-			</div>
-		  
-			<div class="row">
-			  <div class="form-group col-sm-12">
-				<input type="text" name="mobile" placeholder="Enter mobile" required />
-			  </div>
-			  <div class="form-group col-sm-12">
-				<select name="Dtype" required>
-				  <option value="">Select Requirement</option>
-				  <option value="web">Web</option>
-				  <option value="graphic">Graphic</option>
-				  <option value="video">Video</option>
-				</select>
-			  </div>
-			</div>
-		  
-			<div class="form-group">
-			  <textarea name="message" rows="5" placeholder="Enter your message" required></textarea>
-			</div>
-		  
-			<button type="submit" class="btn lnk btn-main bg-btn">
-			  Submit <span class="circle"></span>
-			</button>
-		  </form>
-		  
+          <form
+            name="contactForm"
+            action="https://formspree.io/f/xyzplpyg"
+            method="POST"
+            id="contactForm"
+          >
+            <input type="hidden" name="form-name" value="contactForm" />
+            <p hidden>
+              <label>Don’t fill this out: <input name="bot-field" /></label>
+            </p>
+
+            <div class="row">
+              <div class="form-group col-sm-12">
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="Enter name"
+                  required
+                />
+              </div>
+              <div class="form-group col-sm-12">
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="Enter email"
+                  required
+                />
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="form-group col-sm-12">
+                <input
+                  type="text"
+                  name="mobile"
+                  placeholder="Enter mobile"
+                  required
+                />
+              </div>
+              <div class="form-group col-sm-12">
+                <select name="Dtype" required>
+                  <option value="">Select Requirement</option>
+                  <option value="web">Web</option>
+                  <option value="graphic">Graphic</option>
+                  <option value="video">Video</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <textarea
+                name="message"
+                rows="5"
+                placeholder="Enter your message"
+                required
+              ></textarea>
+            </div>
+
+            <button type="submit" class="btn lnk btn-main bg-btn">
+              Submit <span class="circle"></span>
+            </button>
+          </form>
         </div>
         <div class="getintouchblock mt30">
           <h4>Get In Touch</h4>
@@ -1084,9 +1108,8 @@
             <div class="form-block">
               <form
                 name="contact"
+                action="https://formspree.io/f/xyzplpyg"
                 method="POST"
-                data-netlify="true"
-                netlify-honeypot="bot-field"
               >
                 <input type="hidden" name="form-name" value="contact" />
                 <p style="display: none">
