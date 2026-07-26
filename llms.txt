@@ -1,0 +1,15 @@
+# TechNimbus
+
+> Software development company based in Gurugram, Haryana, India, offering full-stack web and mobile solutions along with remote tech talent to help startups and businesses scale faster.
+
+Services: Logo & Branding, Website Design & Development, Mobile App Development (Flutter / React Native), Digital Marketing (SEO, content, performance). TechNimbus partners with startups and businesses to build MVPs and provide dedicated developers. Support is available 24/7.
+
+## Contact
+- Email: admin@techinimbus.com
+- Phone / WhatsApp: +91 96714 58654
+- Address: Gurugram, Haryana, India
+- Availability: 24/7
+- Website: https://techinimbus.com/
+
+## Key pages
+- [Homepage](https://techinimbus.com/): services, about, industries served, testimonials, and contact/quote form.
