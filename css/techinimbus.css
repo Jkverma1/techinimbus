@@ -1,4 +1,4 @@
-/* TechNimbus custom additions — sits on top of the template's style.css/responsive.css */
+/* TechNimbus custom additions - sits on top of the template's style.css/responsive.css */
 
 .avatar-initials {
   width: 80px;
@@ -15,7 +15,7 @@
   flex-shrink: 0;
 }
 
-/* h3 restored for proper heading hierarchy (service cards) — matches h4's styling */
+/* h3 restored for proper heading hierarchy (service cards) - matches h4's styling */
 h3 {
   font-family: Poppins, sans-serif;
   color: #050748;
@@ -30,7 +30,7 @@ h3 {
   h3 { font-size: 20px; line-height: 30px; }
 }
 
-/* Fix logo aspect-ratio distortion inside the flex header — max-height alone
+/* Fix logo aspect-ratio distortion inside the flex header - max-height alone
    doesn't reliably preserve width via the image's natural aspect ratio here */
 .dsk-logo .nav-brand img,
 .nav-brand img,
@@ -38,7 +38,7 @@ h3 {
   width: auto;
 }
 
-/* Service icon depth — soft brand-gradient glow behind each illustration,
+/* Service icon depth - soft brand-gradient glow behind each illustration,
    using the site's existing peach-to-pink accent (see .bg-btn) */
 .s-card-icon {
   position: relative;

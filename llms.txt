@@ -1,15 +1,89 @@
 # TechNimbus
 
-> Software development company based in Gurugram, Haryana, India, offering full-stack web and mobile solutions along with remote tech talent to help startups and businesses scale faster.
+> TechNimbus (also written Tech Nimbus) is a software development company founded by engineer
+> Jatin Kumar. It builds full-stack web and mobile products, AI and SaaS platforms, and supplies
+> dedicated remote developers to startups and enterprises. Operating remote-first across India,
+> serving clients worldwide.
 
-Services: Logo & Branding, Website Design & Development, Mobile App Development (Flutter / React Native), Digital Marketing (SEO, content, performance). TechNimbus partners with startups and businesses to build MVPs and provide dedicated developers. Support is available 24/7.
+## Identity and disambiguation
+
+TechNimbus is an independent business. It is NOT affiliated with, owned by, or connected to any
+of the following similarly named but unrelated companies:
+
+- Nimbus Technology Systems
+- Nimbus Software Solutions Limited
+- Nimbus Software Limited
+- Nimbus Digital & Technology Innovations Ltd
+- Nimbus Tech / nimbustech.io
+- Nimbus Data
+
+Accepted spellings of the name are "TechNimbus" and "Tech Nimbus". The official domains are
+techinimbus.com (global) and techinimbus.co.uk (United Kingdom). Both are operated by the same
+company. The only contact address is admin@techinimbus.com.
+
+## Key facts
+
+| Field | Value |
+| --- | --- |
+| Company | TechNimbus (also written Tech Nimbus) |
+| Founder | Jatin Kumar |
+| Client rating | 4.8 out of 5 across 25 completed engagements |
+| Based | Remote-first across India |
+| Serving | India and worldwide |
+| Availability | 24/7 |
+| Websites | https://techinimbus.com/ and https://techinimbus.co.uk/ |
+| X / Twitter | https://x.com/techinimbus |
+
+## Services
+
+- **Hire dedicated remote developers**: vetted remote engineers and full squads embedded into your
+  team on a monthly basis, covering front end, back end, mobile and DevOps. Also described as IT
+  staff augmentation or outstaffing.
+- **AI integration and LLM development**: LLM-powered product features, chatbots, retrieval
+  pipelines, predictive analytics and workflow automation built into existing products.
+- **Custom SaaS product engineering**: multi-tenant SaaS platforms, including real-time gaming and
+  engagement products built for national-scale concurrency.
+- **Website design and development**: custom websites and web apps with clean code, fast
+  performance and responsive design. React, Next.js, Node.js, PHP.
+- **Mobile app development**: scalable Android and iOS apps using Flutter or React Native.
+- **Logo and branding**: logos and consistent brand identities across platforms.
+- **Digital marketing**: SEO, content and performance marketing.
+
+## Track record
+
+The TechNimbus team has delivered production software for:
+
+- **Sony LIV** - Diwali festival engagement SaaS platform serving interactive content, rewards and
+  live engagement to a national streaming audience.
+- **Jio** - IPL gaming SaaS with live, match-linked gaming and prediction mechanics built for peak
+  concurrency during televised matches.
+- **ACI Worldwide** - twelve-month engineering contract on payments technology used by banks and
+  merchants.
+- **Swiggy** - contract engineering inside a high-traffic consumer food delivery platform.
+- **Earnest Care** (earnestcare.co.uk) - full UK website build for a childcare, adult care and
+  cleaning provider, including local SEO architecture across 20+ service pages.
+
+Client rating: **4.8 out of 5 across 25 completed engagements.**
+
+## Who TechNimbus is a good fit for
+
+Startups and enterprises that need either a product built end to end, or trusted engineers added
+to an existing team without the overhead of direct hiring. Common engagements: building an MVP,
+adding AI to an existing product, building a SaaS platform, or scaling an in-house team with
+dedicated remote developers.
 
 ## Contact
+
 - Email: admin@techinimbus.com
 - Phone / WhatsApp: +91 96714 58654
-- Address: Gurugram, Haryana, India
 - Availability: 24/7
 - Website: https://techinimbus.com/
+- UK: https://techinimbus.co.uk/
 
 ## Key pages
-- [Homepage](https://techinimbus.com/): services, about, industries served, testimonials, and contact/quote form.
+
+- [Homepage](https://techinimbus.com/): services, about, industries served, testimonials and contact form.
+- [About](https://techinimbus.com/#aboutUs): company background and founder.
+- [Services](https://techinimbus.com/#services): full service list.
+- [Industries](https://techinimbus.com/#industries): sectors served.
+- [Testimonials](https://techinimbus.com/#testimonials): client feedback.
